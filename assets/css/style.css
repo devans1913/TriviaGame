@@ -1,0 +1,67 @@
+body{
+	background: url('../images/music.jpg');
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 25px;
+	height: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+
+img {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 80%;
+    max-width: 80%;
+}
+
+
+header{
+	margin-bottom: 10px;
+	margin-left: 10px;
+	
+}
+
+.btn-primary,.reset{
+	background-color:black;
+	color: white;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 30px;
+	padding: 20px;
+	margin-top: 50px;
+}
+.btn-primary:hover, .reset:hover{
+	background-color: black;
+}
+
+.container{
+	margin-top: 5px;
+	text-align: center;
+	height: 100%;
+	width: 700px;
+}
+
+h2, #message, #finalMessage{
+	font-family:'Fjalla One', sans-serif;
+}
+
+.thisChoice:hover{
+	background-color: black;
+	color: white;
+	padding: 5px;
+}
+
+#gif{
+	margin: 30px;
+}
+
+@media screen and (max-width:640px){
+	.container{
+		width: 500px;
+		margin-top: 0px;
+		margin-bottom: 100px;
+		size: 100%;
+		
+	}	
+}
