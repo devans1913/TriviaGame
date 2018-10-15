@@ -6,7 +6,7 @@ Created during Week 6 of KU Coding Bootcamp, it implements the Giphy API to disp
 https://devans1913.github.io/TriviaGame/
 
 ## Screen Shot
-![Screen shot](assets/images/trivia.JPG)
+![Screen shot](assets/images/trivia.jpg)
 Test your knowledge of the music industry, awards and artist with the Trivia game above. 
 
 ## Technologies used
